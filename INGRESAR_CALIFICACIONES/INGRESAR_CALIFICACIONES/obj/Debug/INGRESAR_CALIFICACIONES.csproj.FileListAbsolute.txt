@@ -1,0 +1,12 @@
+C:\Users\Pablo\AppData\Local\Temporary Projects\INGRESAR_CALIFICACIONES\bin\Debug\INGRESAR_CALIFICACIONES.exe.config
+C:\Users\Pablo\AppData\Local\Temporary Projects\INGRESAR_CALIFICACIONES\bin\Debug\INGRESAR_CALIFICACIONES.exe
+C:\Users\Pablo\AppData\Local\Temporary Projects\INGRESAR_CALIFICACIONES\bin\Debug\INGRESAR_CALIFICACIONES.pdb
+C:\Users\Pablo\AppData\Local\Temporary Projects\INGRESAR_CALIFICACIONES\obj\Debug\INGRESAR_CALIFICACIONES.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\AppData\Local\Temporary Projects\INGRESAR_CALIFICACIONES\obj\Debug\INGRESAR_CALIFICACIONES.Form1.resources
+C:\Users\Pablo\AppData\Local\Temporary Projects\INGRESAR_CALIFICACIONES\obj\Debug\INGRESAR_CALIFICACIONES.Properties.Resources.resources
+C:\Users\Pablo\AppData\Local\Temporary Projects\INGRESAR_CALIFICACIONES\obj\Debug\INGRESAR_CALIFICACIONES.csproj.GenerateResource.Cache
+C:\Users\Pablo\AppData\Local\Temporary Projects\INGRESAR_CALIFICACIONES\obj\Debug\INGRESAR_CALIFICACIONES.exe
+C:\Users\Pablo\AppData\Local\Temporary Projects\INGRESAR_CALIFICACIONES\obj\Debug\INGRESAR_CALIFICACIONES.pdb
+C:\Users\Pablo\Documents\Visual Studio 2012\Projects\INGRESAR_CALIFICACIONES\INGRESAR_CALIFICACIONES\bin\Debug\INGRESAR_CALIFICACIONES.exe.config
+C:\Users\Pablo\Documents\Visual Studio 2012\Projects\INGRESAR_CALIFICACIONES\INGRESAR_CALIFICACIONES\obj\Debug\INGRESAR_CALIFICACIONES.exe
+C:\Users\Pablo\Documents\Visual Studio 2012\Projects\INGRESAR_CALIFICACIONES\INGRESAR_CALIFICACIONES\obj\Debug\INGRESAR_CALIFICACIONES.pdb

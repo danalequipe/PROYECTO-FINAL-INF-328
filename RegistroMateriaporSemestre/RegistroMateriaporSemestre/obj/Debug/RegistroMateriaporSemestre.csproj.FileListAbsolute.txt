@@ -1,0 +1,11 @@
+C:\Users\Pablo\AppData\Local\Temporary Projects\RegistroMateriaporSemestre\bin\Debug\RegistroMateriaporSemestre.exe.config
+C:\Users\Pablo\AppData\Local\Temporary Projects\RegistroMateriaporSemestre\bin\Debug\RegistroMateriaporSemestre.exe
+C:\Users\Pablo\AppData\Local\Temporary Projects\RegistroMateriaporSemestre\bin\Debug\RegistroMateriaporSemestre.pdb
+C:\Users\Pablo\AppData\Local\Temporary Projects\RegistroMateriaporSemestre\obj\Debug\RegistroMateriaporSemestre.Form1.resources
+C:\Users\Pablo\AppData\Local\Temporary Projects\RegistroMateriaporSemestre\obj\Debug\RegistroMateriaporSemestre.Properties.Resources.resources
+C:\Users\Pablo\AppData\Local\Temporary Projects\RegistroMateriaporSemestre\obj\Debug\RegistroMateriaporSemestre.csproj.GenerateResource.Cache
+C:\Users\Pablo\AppData\Local\Temporary Projects\RegistroMateriaporSemestre\obj\Debug\RegistroMateriaporSemestre.exe
+C:\Users\Pablo\AppData\Local\Temporary Projects\RegistroMateriaporSemestre\obj\Debug\RegistroMateriaporSemestre.pdb
+C:\Users\Pablo\Documents\Visual Studio 2012\Projects\RegistroMateriaporSemestre\RegistroMateriaporSemestre\bin\Debug\RegistroMateriaporSemestre.exe.config
+C:\Users\Pablo\Documents\Visual Studio 2012\Projects\RegistroMateriaporSemestre\RegistroMateriaporSemestre\obj\Debug\RegistroMateriaporSemestre.exe
+C:\Users\Pablo\Documents\Visual Studio 2012\Projects\RegistroMateriaporSemestre\RegistroMateriaporSemestre\obj\Debug\RegistroMateriaporSemestre.pdb
